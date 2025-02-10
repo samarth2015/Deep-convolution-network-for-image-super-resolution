@@ -1,6 +1,8 @@
 # Deep-convolution-network-for-image-super-resolution
 # SRCNN Implementation
 
+This project is the paper **Learning a Deep Convolutional Network for Image Super-Resolution** by **Chao Dong et al.**
+
 ## Dataset Preparation
 
 For the training of the SRCNN model, the T91 image dataset was utilized. From each image, sub-images were extracted, processed, and used for training as described below:
